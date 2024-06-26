@@ -1,0 +1,4 @@
+1 uk 40 5
+1 uk2 45 8
+2 uk3 60 8 pictures 40 roksa
+1 uk4 70 5
